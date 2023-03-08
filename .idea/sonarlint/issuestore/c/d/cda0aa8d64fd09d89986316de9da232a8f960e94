@@ -1,0 +1,12 @@
+
+g	java:S112K"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8æÛéèë0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–™­8éÛéèë0
+g
+java:S2095$"EUse try-with-resources or close this "Channel" in a "finally" clause.(‡î‰´ûÿÿÿÿ8ôÛéèë0
+g
+java:S2095<"EUse try-with-resources or close this "Channel" in a "finally" clause.(‡î‰´ûÿÿÿÿ8óÛéèë0
+X	java:S125"<This block of commented-out lines of code should be removed.(â¬Ü8øÛéèë0
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(¡¾µ˜8üÛéèë0
+{
+java:S2142J"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8€Üéèë0
+U	java:S106P"9Replace this use of System.out or System.err by a logger.(¡¾µ˜8…Üéèë0
